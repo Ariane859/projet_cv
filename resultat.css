@@ -1,0 +1,13 @@
+.bienvenue
+{
+    background-color: thistle;
+    letter-spacing:1px;
+    top:0;left: 0;
+    width: 100%;
+    position: absolute;
+}
+.details
+{
+    margin-top:10%;
+    
+}

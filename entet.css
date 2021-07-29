@@ -1,0 +1,10 @@
+.H1{
+    background-color:rgb(89, 89, 253);
+    color: white;
+    font-size: 11px;
+    height: 10%;
+    width: 100%;
+    position: absolute;
+    top:0;left: 0;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}

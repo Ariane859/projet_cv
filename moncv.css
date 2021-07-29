@@ -1,0 +1,52 @@
+body{
+    background-color: rgb(242, 247, 244);
+}
+.form
+{
+    margin-top:8%;
+    margin-left:14%;
+    border:solid rgb(255, 255, 255) 2px;
+    border-radius: 17px;
+    background-color: white;
+    width:58%;
+    padding-left:2.75%;
+    padding-right:9%;
+    padding-top:1%;
+}
+.form h1
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:1.65em;
+    color: grey;
+    
+}
+.form hr
+{
+    padding-left: 110%;
+}
+.form-group label
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 6em;
+}
+.form-group input{
+    background-size: 240px;
+}
+.bouton
+{
+    border: solid rgb(64, 64, 250) 2px;
+    border-radius:24px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size:1.2em;
+    background-color: rgb(75, 75, 250);
+    color:white;
+    width:13%;
+    margin-left:42%;
+    margin-top:3%;
+    padding-left:4%;
+    cursor: pointer;
+}
+.bouton a{
+    text-decoration: none;
+    color: white;
+}

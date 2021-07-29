@@ -1,0 +1,46 @@
+body{
+    background-color: rgb(242, 247, 244);
+}
+.profile
+{
+    margin-top:8%;
+    margin-left:14%;
+    border:solid rgb(255, 255, 255) 2px;
+    border-radius: 17px;
+    background-color: white;
+    width:58%;
+    padding-left:2.75%;
+    padding-right:9%;
+    padding-top:1%;
+}
+.profile h1
+{
+    font-family:Georgia, 'Times New Roman', Times, serif;
+    font-size:1.65em;
+    color: rgb(12, 10, 10);
+    
+}
+.profile hr
+{
+    padding-left: 110%;
+}
+.form-group label
+{
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-size: 6em;
+}
+.form-group input{
+    background-size: 240px;
+}
+.pro
+{
+    margin-top:30px;
+    margin-left:14%;
+    border:solid rgb(255, 255, 255) 2px;
+    border-radius: 17px;
+    background-color: white;
+    width:58%;
+    padding-left:2.75%;
+    padding-right:9%;
+    padding-top:1%;
+}
